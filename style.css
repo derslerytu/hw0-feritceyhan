@@ -1,3 +1,12 @@
 body {
   font-family: monospace;
 }
+
+
+h1{color: #7a0404; }
+
+.border{border: 1px; border-style: dotted; padding: 10px; width: 380px; margin:auto;}
+
+.gorsel{background: url("")}
+
+p{color: #1f4fa6; font-weight: 600;}
